@@ -15,7 +15,7 @@ computers.
 
 <p align="center">
     <image src="screenshots/ss2.png" width="450">
-    <image src="screenshots/ss1.png" width="490">
+    <image src="screenshots/ss1.png" width="480">
 </p>
 
 To solve the problems of braille system, we need refresher display. This
@@ -26,7 +26,7 @@ according to each user and his/her specific needs.
 
 <p align="center">
     <image src="screenshots/ss5.png" width="450">
-    <image src="screenshots/ss6.png" width="490">
+    <image src="screenshots/ss6.png" width="450">
 </p>
         
 The development to low cost, efficient, refreshable displays for Braille text would give Braille
@@ -43,7 +43,7 @@ visually impaired people as well as non-disabled persons.
         
 <p align="center">
     <image src="screenshots/ss3.png" width="450">
-    <image src="screenshots/ss4.png" width="490">
+    <image src="screenshots/ss4.png" width="450">
 </p>        
         
         
