@@ -16,3 +16,7 @@ The blind deaf side of the software will enable the individual to connect the
 interface to a dynamic braille system built using motors and Arduino Uno. This
 system enables the person to interpret the chat received. Replies can be made
 using the keyboard containing braille characters
+
+<p align="center">
+    <image src="screenshots/ss1.png" width="200">
+        </p>
