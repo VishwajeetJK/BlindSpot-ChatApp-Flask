@@ -19,5 +19,5 @@ using the keyboard containing braille characters
 
 <p align="center">
     <image src="screenshots/ss2.png" width="450">
-        <image src="screenshots/ss1.png" width="460">
+        <image src="screenshots/ss1.png" width="480">
         </p>
