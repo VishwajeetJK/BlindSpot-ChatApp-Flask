@@ -18,5 +18,6 @@ system enables the person to interpret the chat received. Replies can be made
 using the keyboard containing braille characters
 
 <p align="center">
-    <image src="screenshots/ss1.png" width="200">
+    <image src="screenshots/ss1.png">
+        <image src="screenshots/ss2.png">
         </p>
