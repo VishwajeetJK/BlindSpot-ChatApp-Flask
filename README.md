@@ -46,7 +46,7 @@ visually impaired people as well as non-disabled persons.
     <image src="screenshots/ss4.png" width="450">
 </p>        
         
-        <a href="https://github.com/VishwajeetJK/Dynamic-Braille"><h1> GO TO DYNAMIC BRAILLE REPOSITORY</H1></a>        
+[GO TO DYNAMIC BRAILLE REPOSITORY](https://github.com/VishwajeetJK/Dynamic-Braille)       
         
         
         
